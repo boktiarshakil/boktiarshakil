@@ -1,54 +1,114 @@
-<h1 align="center">Hi 👋, I'm Boktiar Shakil</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+# Boktiar Shakil  
+**Digital Marketing & Graphic Design Specialist**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boktiarshakil&label=Profile%20views&color=0e75b6&style=flat" alt="boktiarshakil" /> </p>
+📞 +8801878863684 | ✉ [boktiarshakil2003@gmail.com](mailto:boktiarshakil2003@gmail.com)  
+🏠 478/2 Sonabibi Road, Sonakanda, Bandar, Narayanganj – 1410  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boktiarshakil" alt="boktiarshakil" /></a> </p>
+🎓 **Reference**:  
+Insaf Trade International  
+E-Learning & Earning Ltd.  
+Certificate Number: Running student  
 
-<p align="left"> <a href="https://twitter.com/boktiarshakil" target="blank"><img src="https://img.shields.io/twitter/follow/boktiarshakil?logo=twitter&style=for-the-badge" alt="boktiarshakil" /></a> </p>
+---
 
-- 🔭 I’m currently working on [11+ Portfolio Project](https://github.com/boktiarshakil)
+## Professional Profile  
+Certified Digital Marketing Executive and Graphic Designer with Wadhwani Foundation-certified employability skills. Combines technical expertise in SEO, social media marketing, and Adobe Creative Suite with workplace-ready competencies in communication, teamwork, and problem-solving. Certified through 600+ hours of training at **E-Learning & Earning Ltd** and 360+ hours of training at **Narayanganj TTC** (ASSET Project). Currently pursuing Bachelor's in English Literature while applying skills through freelancing.
 
-- 🌱 I’m currently learning **Web Development on "Programing Hero"**
+---
 
-- 👯 I’m looking to collaborate on **GitHub**
+## Education  
+**2022–Present**  
+**Bachelor of Arts in English Literature**  
+National University (Currently Enrolled)  
 
-- 🤝 I’m looking for help with **Three.js**
+**2019–2021**  
+**Higher Secondary Certificate (HSC)**  
+Haji Ibrahim Alamchan Model School & College | GPA: 4.50  
 
-- 👨‍💻 All of my projects are available at [boktiar.cf](boktiar.cf)
+**2017–2019**  
+**Secondary School Certificate (SSC)**  
+Sonakanda High School | GPA: 4.06  
 
-- 📝 I regularly write articles on [https://boktiarshakil.blogspot.com](https://boktiarshakil.blogspot.com)
+---
 
-- 💬 Ask me about **react, three.js**
+## Certifications  
+**Jun 2025**  
+**Wadhwani Foundation Job Ready Program**  
+- Certified in 15 workplace competencies through AI-powered platform  
+- Scenario-based training in communication, teamwork, and digital literacy  
+- Earned personalized employability score: 97%  
 
-- 📫 How to reach me **boktiarshakil2003@gmail.com**
+**Apr–Jun 2025**  
+**Digital Marketing (DYD Project - 600 Hours)**  
+E-Learning & Earning Ltd. (Narayanganj Branch)  
 
-- 📄 Know about my experiences [boktiar.cf/resume.pdf](boktiar.cf/resume.pdf)
+**Feb–Apr 2025**  
+**Graphic Design (ASSET Project - 360 Hours)**  
+Narayanganj TTC (Govt. Technical Training Center)  
 
-- ⚡ Fun fact **I think I am Funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://dev.to/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://twitter.com/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13976405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13976405" height="30" width="40" /></a>
-<a href="https://fb.com/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://instagram.com/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://dribbble.com/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://www.behance.net/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://medium.com/@boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@boktiarshakil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucahhhz8nr2uwhgcsgfymbew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucahhhz8nr2uwhgcsgfymbew" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="boktiarshakil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/boktiarshakil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boktiarshakil" height="30" width="40" /></a>
-</p>
+## Wadhwani Employability Skills  
+- Workplace Communication  
+- Critical Thinking  
+- Team Collaboration  
+- Problem Solving  
+- Professional Ethics  
+- Digital Fluency  
+- Time Management  
+- Growth Mindset  
+- Customer Focus  
+- Adaptability  
+- Leadership Basics  
+- Emotional Intelligence  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boktiarshakil&show_icons=true&locale=en&layout=compact" alt="boktiarshakil" /></p>
+## Technical Skills  
+**Digital Marketing:**  
+- SEO (On/Off-Page)  
+- Social Media Marketing  
+- Google Analytics  
+- WordPress Development  
+- Email Marketing  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boktiarshakil&show_icons=true&locale=en" alt="boktiarshakil" /></p>
+**Graphic Design:**  
+- Adobe Photoshop  
+- Adobe Illustrator  
+- Brand Identity Design  
+- Print Media Design  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boktiarshakil&" alt="boktiarshakil" /></p>
+**Tools:**  
+- Canva  
+- Google Workspace  
+- Microsoft Office  
+
+**Languages:**  
+- English (Fluent)  
+- Bengali (Native)  
+
+---
+
+## Experience & Projects  
+**Present**  
+**Freelance Digital Marketer & Graphic Designer**  
+- Applied Wadhwani communication skills in client consultations  
+- Managed SEO campaigns increasing organic traffic by 30%  
+- Designed 10+ logos using Adobe Illustrator  
+
+**2025**  
+**Social Media Management Project**  
+- Implemented Wadhwani teamwork principles in cross-functional projects  
+- Grew Instagram engagement by 25% through targeted content  
+
+**2025–Present**  
+**Nihongo Pathway Project**  
+- Developed full stack react web app for Bangali-Japanese Language Learner  
+- Covering N5 to N1 JLPT level  
+
+---
+
+## Additional Information  
+- Portfolio: [E-Learning & Earning Ltd Interview](https://www.facebook.com/elaeltd.official/videos/1250340043352093/)  
+- Wadhwani Certification Verification: [Verified](https://web.certificate.wfglobal.org/en/certificate?certificateId=68526c5edbb1c63612d7c000)  
+- References available upon request  
