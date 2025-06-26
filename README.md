@@ -19,7 +19,7 @@
     </td>
     <td valign="top" align="right" width="35%">
       <img src="Passport_photo.JPG" alt="Boktiar Shakil Photo" width="160"><br><br>
-      <img src="[https://www.overleaf.com/project/68541b5290c513cba4a9408b/blob/b5c7589913aa0a051e7c5e1f5529c159d732ce70?fallback=68556933f6bb1be5797746e5" alt="Wadhwani Foundation Badge" width="160">
+      <img src="https://www.overleaf.com/project/68541b5290c513cba4a9408b/blob/b5c7589913aa0a051e7c5e1f5529c159d732ce70?fallback=68556933f6bb1be5797746e5" alt="Wadhwani Foundation Badge" width="160">
     </td>
   </tr>
 </table>
