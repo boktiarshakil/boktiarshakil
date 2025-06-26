@@ -19,7 +19,7 @@
     </td>
     <td valign="top" align="right" width="35%">
       <img src="boktiarshakil.JPG" alt="Boktiar Shakil Photo" width="160"><br><br>
-      <img src="Badge2.PNG" alt="Wadhwani Foundation Badge" width="160">
+      <img src="Badge.png" alt="E-Learning & Earning Ltd. Badge" width="160">
     </td>
   </tr>
 </table>
